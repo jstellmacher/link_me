@@ -56,9 +56,10 @@ export default function Home() {
 
       {/* Footer Section */}
       <FooterCard
-        copyright="© 2024 Your Name"
-        description="Your footer description goes here."
-      />
+  copyright="© 2024 Jai Stellmacher"
+  description="This project is a dynamic and responsive web application built as a solo endeavor using Next.js, React.js, and Tailwind CSS. The design incorporates refactored Tailwind CSS styling with constants for improved readability and maintainability. It features client-side rendering and aims to deliver a seamless user experience. Thank you for exploring my work!"
+/>
+
     </main>
   );
 }
