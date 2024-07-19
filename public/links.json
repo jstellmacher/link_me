@@ -1,0 +1,57 @@
+[
+    {
+      "href": "https://www.linkedin.com/in/jaichuang-stellmacher/",
+      "title": "LinkedIn",
+      "description": "Connect with me on LinkedIn for professional networking and career updates.",
+      "icon": "linkedin"
+    },
+    {
+      "href": "https://github.com/jstellmacher",
+      "title": "GitHub",
+      "description": "Check out my GitHub for my latest projects and code contributions.",
+      "icon": "github"
+    },
+    {
+      "href": "",
+      "title": "YouTube",
+      "description": "Explore my YouTube channel for tech tutorials and project demos.",
+      "icon": "youtube"
+    },
+    {
+      "href": "",
+      "title": "Twitter",
+      "description": "Follow me on Twitter for updates on my work and tech insights.",
+      "icon": "twitter"
+    },
+    {
+      "href": "",
+      "title": "Reddit",
+      "description": "Join discussions and see what I'm talking about on Reddit.",
+      "icon": "reddit"
+    },
+    {
+      "href": "",
+      "title": "Instagram",
+      "description": "See behind-the-scenes and personal updates on Instagram.",
+      "icon": "instagram"
+    },
+    {
+      "href": "",
+      "title": "Twitch",
+      "description": "Tune in to my Twitch streams for live coding sessions and tech talk.",
+      "icon": "twitch"
+    },
+    {
+      "href": "https://medium.com/@jaijai.stell",
+      "title": "Medium",
+      "description": "Read my Medium articles for in-depth analysis and tutorials on tech topics.",
+      "icon": "medium"
+    },
+    {
+      "href": "",
+      "title": "Patreon",
+      "description": "Support my work on Patreon and get exclusive content and updates.",
+      "icon": "patreon"
+    }
+  ]
+  
